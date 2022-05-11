@@ -1,3 +1,7 @@
+show_excerpts: true # set to true to show excerpts on the homepage
+sass:
+  sass_dir: _sass
+
 texture:
   title: Thorn
   tagline: Developer. Designer
@@ -5,6 +9,7 @@ texture:
 
   social_links:
     twitter: soonthornpen
+    rss: rss
   style: black
   showNav: true
   navigation:
@@ -13,4 +18,6 @@ texture:
     - title: My Work
       url: "/my-work"
 
-remote_theme: samarsault/texture
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
