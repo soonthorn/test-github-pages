@@ -8,8 +8,9 @@ texture:
   style: black
   showNav: true
   navigation:
+    - title: Home
+      url: "/"
     - title: My Work
       url: "/my-work"
-    - title: Resume
-      url: "/resume"
+
 remote_theme: samarsault/texture
