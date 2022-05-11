@@ -6,6 +6,7 @@ texture:
   social_links:
     twitter: soonthornpen
   style: black
+  showNav: true
   navigation:
     - title: My Work
       url: "/my-work"
