@@ -6,4 +6,9 @@ texture:
   social_links:
     twitter: soonthornpen
   style: black
+  navigation:
+    - title: My Work
+      url: "/my-work"
+    - title: Resume
+      url: "/resume"
 remote_theme: samarsault/texture
